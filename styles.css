@@ -1,0 +1,53 @@
+body{
+    text-align:center;
+    background-color:#ccf2f4;
+}
+
+.buttons{
+    height:220px;
+    width:220px;
+    margin:20px;
+    border:8px outset #f5cebe;
+    border-radius:25px;
+}
+
+h1{
+    font-family: 'Yellowtail', cursive;
+    color:#f55c47;
+    font-size:80px;
+    word-spacing:10px;
+}
+
+.yellow{
+    background-color:yellow;
+    
+}
+
+.red{
+    background-color:red;
+}
+
+.green{
+    background-color:green;
+}
+
+.blue{
+    background-color:blue;
+}
+
+footer{
+    margin-top:20px;
+}
+
+span{
+    text-decoration:underline;
+}
+
+.pressed{
+    box-shadow: 0 0 20px white;
+    background-color: grey;
+}
+
+.wrong-pressed{
+    background-color:red ;
+}
